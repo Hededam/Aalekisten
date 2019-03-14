@@ -1,0 +1,731 @@
+fileFormatVersion: 2
+guid: eea70cffb80aadb43bed458995b74e50
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: " sovev\xE6relse gulv"
+    100002: "bad-d\xF8rkarm.000"
+    100004: "badev\xE6erlsegulv"
+    100006: Camera
+    100008: computerbord.001
+    100010: Crown Moulding kontor
+    100012: Crown Moulding sovev;erlse
+    100014: Crown Moulding stue
+    100016: Cube
+    100018: "D\xF8rtrin"
+    100020: "D\xF8rtrin.001"
+    100022: "D\xF8rtrin.002"
+    100024: "D\xF8rtrin.003"
+    100026: Empty
+    100028: Fod
+    100030: gang stuk/box
+    100032: ganggulv
+    100034: gulvstue og kontor
+    100036: HIGH POLY PEINS
+    100038: "Hovedd\xF8r-d\xF8rkarm.001"
+    100040: Icosphere
+    100042: Icosphere.001
+    100044: Is-skab
+    100046: Is-skab.001
+    100048: Is-skab.002
+    100050: Is-skab.004
+    100052: Is-skab.005
+    100054: kontakt
+    100056: kontakt Med stik.001
+    100058: kontakt-knap
+    100060: kontakt-knap.002
+    100062: Kontor bord
+    100064: Kontor reol
+    100066: Kontor reol.001
+    100068: "kontor-d\xF8rkarm.001"
+    100070: "kontor-d\xF8rkarm.002"
+    100072: Krop
+    100074: krystal
+    100076: krystal.001
+    100078: krystal.002
+    100080: "k\xF8kken gulv"
+    100082: "k\xF8kken-d\xF8rkarm"
+    100084: "k\xF8kken-d\xF8rkarm.001"
+    100086: "k\xF8kken-d\xF8rkarm.002"
+    100088: "K\xF8kkenskab1"
+    100090: "K\xF8kkenskab1.001"
+    100092: L1.001
+    100094: L2.001
+    100096: loft
+    100098: "L\xE5ge1"
+    100100: "L\xE5ge1.001"
+    100102: "L\xE5ge1.002"
+    100104: "L\xE5ge1.003"
+    100106: "L\xE5ge1.004"
+    100108: "L\xE5ge2"
+    100110: "L\xE5ge2.001"
+    100112: "L\xE5ge2.002"
+    100114: "L\xE5ge2.003"
+    100116: "L\xE5ge2.004"
+    100118: "n\xE6se"
+    100120: Panel.kontor
+    100122: Point
+    100124: Point.001
+    100126: Point.002
+    100128: radiator-termostad
+    100130: radiator-termostad.001
+    100132: radiator.000
+    100134: radiator.001
+    100136: radiator_kontor
+    100138: radiator_kontor.001
+    100140: radiator_main
+    100142: "radiator_r\xF8r"
+    100144: radiator_stue
+    100146: "rediator r\xF8r"
+    100148: "r\xF8r_kontor.000"
+    100150: "r\xF8r_kontor.001"
+    100152: "r\xF8r_kontor.002"
+    100154: "r\xF8r_kontor.003"
+    100156: skab
+    100158: skab.001
+    100160: skab.002
+    100162: skab.003
+    100164: skab.004
+    100166: skabe
+    100168: Spot
+    100170: Spot.001
+    100172: sstugebord.001
+    100174: stegebordben.002
+    100176: stegebordben.003
+    100178: stegebordben.004
+    100180: stegebordben.005
+    100182: stegebordben.006
+    100184: stegebordben.007
+    100186: stine_tavle
+    100188: "stue-d\xF8rkarm"
+    100190: Stuelampe1.000
+    100192: Stuelampe1.002
+    100194: stuk kontor
+    100196: "tintin r\xF8d"
+    100198: tintinhvid
+    100200: Torus.003
+    100202: tv
+    100204: vindue innerliste.000
+    100206: vindue innerliste.001
+    100208: vindue innerliste.002
+    100210: vindue innerliste.003
+    100212: vindue komtor
+    100214: vindue komtor glas
+    100216: vindue komtor glas.001
+    100218: vindue komtor glas.002
+    100220: "vindue k\xF8kken"
+    100222: "vindue sovev\xE6erlse glas.003"
+    100224: "vindue sovev\xE6relse"
+    100226: vindue Stue
+    100228: "vindues liste. sovev\xE6relse"
+    100230: "vindues liste. sovev\xE6relse.001"
+    100232: vindues liste.kontor
+    100234: vindues liste.stue
+    100236: vinduskarm-kontor.000
+    100238: vinduskarm-kontor.001
+    100240: vinduskarm-kontor.002
+    100242: vinduskarm-stue
+    100244: "\xC5lekiste-v\xE6ge gulv lister og paneler"
+    100246: //RootNode
+    100248: "\xF8je"
+    400000: " sovev\xE6relse gulv"
+    400002: "bad-d\xF8rkarm.000"
+    400004: "badev\xE6erlsegulv"
+    400006: Camera
+    400008: computerbord.001
+    400010: Crown Moulding kontor
+    400012: Crown Moulding sovev;erlse
+    400014: Crown Moulding stue
+    400016: Cube
+    400018: "D\xF8rtrin"
+    400020: "D\xF8rtrin.001"
+    400022: "D\xF8rtrin.002"
+    400024: "D\xF8rtrin.003"
+    400026: Empty
+    400028: Fod
+    400030: gang stuk/box
+    400032: ganggulv
+    400034: gulvstue og kontor
+    400036: HIGH POLY PEINS
+    400038: "Hovedd\xF8r-d\xF8rkarm.001"
+    400040: Icosphere
+    400042: Icosphere.001
+    400044: Is-skab
+    400046: Is-skab.001
+    400048: Is-skab.002
+    400050: Is-skab.004
+    400052: Is-skab.005
+    400054: kontakt
+    400056: kontakt Med stik.001
+    400058: kontakt-knap
+    400060: kontakt-knap.002
+    400062: Kontor bord
+    400064: Kontor reol
+    400066: Kontor reol.001
+    400068: "kontor-d\xF8rkarm.001"
+    400070: "kontor-d\xF8rkarm.002"
+    400072: Krop
+    400074: krystal
+    400076: krystal.001
+    400078: krystal.002
+    400080: "k\xF8kken gulv"
+    400082: "k\xF8kken-d\xF8rkarm"
+    400084: "k\xF8kken-d\xF8rkarm.001"
+    400086: "k\xF8kken-d\xF8rkarm.002"
+    400088: "K\xF8kkenskab1"
+    400090: "K\xF8kkenskab1.001"
+    400092: L1.001
+    400094: L2.001
+    400096: loft
+    400098: "L\xE5ge1"
+    400100: "L\xE5ge1.001"
+    400102: "L\xE5ge1.002"
+    400104: "L\xE5ge1.003"
+    400106: "L\xE5ge1.004"
+    400108: "L\xE5ge2"
+    400110: "L\xE5ge2.001"
+    400112: "L\xE5ge2.002"
+    400114: "L\xE5ge2.003"
+    400116: "L\xE5ge2.004"
+    400118: "n\xE6se"
+    400120: Panel.kontor
+    400122: Point
+    400124: Point.001
+    400126: Point.002
+    400128: radiator-termostad
+    400130: radiator-termostad.001
+    400132: radiator.000
+    400134: radiator.001
+    400136: radiator_kontor
+    400138: radiator_kontor.001
+    400140: radiator_main
+    400142: "radiator_r\xF8r"
+    400144: radiator_stue
+    400146: "rediator r\xF8r"
+    400148: "r\xF8r_kontor.000"
+    400150: "r\xF8r_kontor.001"
+    400152: "r\xF8r_kontor.002"
+    400154: "r\xF8r_kontor.003"
+    400156: skab
+    400158: skab.001
+    400160: skab.002
+    400162: skab.003
+    400164: skab.004
+    400166: skabe
+    400168: Spot
+    400170: Spot.001
+    400172: sstugebord.001
+    400174: stegebordben.002
+    400176: stegebordben.003
+    400178: stegebordben.004
+    400180: stegebordben.005
+    400182: stegebordben.006
+    400184: stegebordben.007
+    400186: stine_tavle
+    400188: "stue-d\xF8rkarm"
+    400190: Stuelampe1.000
+    400192: Stuelampe1.002
+    400194: stuk kontor
+    400196: "tintin r\xF8d"
+    400198: tintinhvid
+    400200: Torus.003
+    400202: tv
+    400204: vindue innerliste.000
+    400206: vindue innerliste.001
+    400208: vindue innerliste.002
+    400210: vindue innerliste.003
+    400212: vindue komtor
+    400214: vindue komtor glas
+    400216: vindue komtor glas.001
+    400218: vindue komtor glas.002
+    400220: "vindue k\xF8kken"
+    400222: "vindue sovev\xE6erlse glas.003"
+    400224: "vindue sovev\xE6relse"
+    400226: vindue Stue
+    400228: "vindues liste. sovev\xE6relse"
+    400230: "vindues liste. sovev\xE6relse.001"
+    400232: vindues liste.kontor
+    400234: vindues liste.stue
+    400236: vinduskarm-kontor.000
+    400238: vinduskarm-kontor.001
+    400240: vinduskarm-kontor.002
+    400242: vinduskarm-stue
+    400244: "\xC5lekiste-v\xE6ge gulv lister og paneler"
+    400246: //RootNode
+    400248: "\xF8je"
+    2000000: Camera
+    2100000: No Name
+    2100002: Material
+    2100004: gulv 1l
+    2100006: bad-guv
+    2100008: Stuk
+    2100010: loft_mat
+    2100012: gulvtrinbrat
+    2100014: flip_kontakt_mat
+    2100016: flip_kontakt_mat.001
+    2100018: "R\xF8r1"
+    2100020: raol_mat
+    2100022: stugebord-blade
+    2100024: stugebordben1.001
+    2100026: stugebordben1.002
+    2100028: Kyrstal-hede-Mat
+    2100030: Material.005
+    2100032: Material.006
+    2100034: Material.001
+    2100036: Material.003
+    2100038: "ComputerBord-m\xF8rkt"
+    2100040: ComputerBord-lyst
+    2100042: ComputerBord-tavle
+    2100044: raol_mat.002
+    2100046: tv
+    2100048: "tvsk\xE6rm"
+    2100050: Is-skab-mat
+    2100052: SORT
+    2100054: IS-skab-metal
+    2100056: "K\xF8kken hvis maling"
+    2100058: borben
+    2100060: tin tin1
+    2100062: Tintin2
+    2100064: Is-skab-mat.001
+    2100066: SORT.001
+    2100068: IS-skab-metal.001
+    2100070: Stine_tavle_Mat
+    2100072: stuelampe1.001
+    2100074: flip_kontakt_mat.003
+    2100076: Is-skab-mat.002
+    2100078: "\xC5lekiste-vindues glas"
+    2300000: " sovev\xE6relse gulv"
+    2300002: "bad-d\xF8rkarm.000"
+    2300004: "badev\xE6erlsegulv"
+    2300006: computerbord.001
+    2300008: Crown Moulding kontor
+    2300010: Crown Moulding sovev;erlse
+    2300012: Crown Moulding stue
+    2300014: Cube
+    2300016: "D\xF8rtrin"
+    2300018: "D\xF8rtrin.001"
+    2300020: "D\xF8rtrin.002"
+    2300022: "D\xF8rtrin.003"
+    2300024: Fod
+    2300026: gang stuk/box
+    2300028: ganggulv
+    2300030: gulvstue og kontor
+    2300032: HIGH POLY PEINS
+    2300034: "Hovedd\xF8r-d\xF8rkarm.001"
+    2300036: Icosphere
+    2300038: Icosphere.001
+    2300040: Is-skab
+    2300042: Is-skab.001
+    2300044: Is-skab.002
+    2300046: Is-skab.004
+    2300048: Is-skab.005
+    2300050: kontakt
+    2300052: kontakt Med stik.001
+    2300054: kontakt-knap
+    2300056: kontakt-knap.002
+    2300058: Kontor bord
+    2300060: "kontor-d\xF8rkarm.001"
+    2300062: "kontor-d\xF8rkarm.002"
+    2300064: Krop
+    2300066: krystal
+    2300068: krystal.001
+    2300070: krystal.002
+    2300072: "k\xF8kken gulv"
+    2300074: "k\xF8kken-d\xF8rkarm"
+    2300076: "k\xF8kken-d\xF8rkarm.001"
+    2300078: "k\xF8kken-d\xF8rkarm.002"
+    2300080: "K\xF8kkenskab1"
+    2300082: "K\xF8kkenskab1.001"
+    2300084: loft
+    2300086: "L\xE5ge1"
+    2300088: "L\xE5ge1.001"
+    2300090: "L\xE5ge1.002"
+    2300092: "L\xE5ge1.003"
+    2300094: "L\xE5ge1.004"
+    2300096: "L\xE5ge2"
+    2300098: "L\xE5ge2.001"
+    2300100: "L\xE5ge2.002"
+    2300102: "L\xE5ge2.003"
+    2300104: "L\xE5ge2.004"
+    2300106: "n\xE6se"
+    2300108: Panel.kontor
+    2300110: radiator-termostad
+    2300112: radiator-termostad.001
+    2300114: radiator.000
+    2300116: radiator.001
+    2300118: radiator_kontor
+    2300120: radiator_kontor.001
+    2300122: radiator_main
+    2300124: "radiator_r\xF8r"
+    2300126: radiator_stue
+    2300128: "rediator r\xF8r"
+    2300130: "r\xF8r_kontor.000"
+    2300132: "r\xF8r_kontor.001"
+    2300134: "r\xF8r_kontor.002"
+    2300136: "r\xF8r_kontor.003"
+    2300138: skab
+    2300140: skab.001
+    2300142: skab.002
+    2300144: skab.003
+    2300146: skab.004
+    2300148: sstugebord.001
+    2300150: stegebordben.002
+    2300152: stegebordben.003
+    2300154: stegebordben.004
+    2300156: stegebordben.005
+    2300158: stegebordben.006
+    2300160: stegebordben.007
+    2300162: stine_tavle
+    2300164: "stue-d\xF8rkarm"
+    2300166: Stuelampe1.000
+    2300168: Stuelampe1.002
+    2300170: stuk kontor
+    2300172: "tintin r\xF8d"
+    2300174: tintinhvid
+    2300176: Torus.003
+    2300178: tv
+    2300180: vindue innerliste.000
+    2300182: vindue innerliste.001
+    2300184: vindue innerliste.002
+    2300186: vindue innerliste.003
+    2300188: vindue komtor
+    2300190: vindue komtor glas
+    2300192: vindue komtor glas.001
+    2300194: vindue komtor glas.002
+    2300196: "vindue k\xF8kken"
+    2300198: "vindue sovev\xE6erlse glas.003"
+    2300200: "vindue sovev\xE6relse"
+    2300202: vindue Stue
+    2300204: "vindues liste. sovev\xE6relse"
+    2300206: "vindues liste. sovev\xE6relse.001"
+    2300208: vindues liste.kontor
+    2300210: vindues liste.stue
+    2300212: vinduskarm-kontor.000
+    2300214: vinduskarm-kontor.001
+    2300216: vinduskarm-kontor.002
+    2300218: vinduskarm-stue
+    2300220: "\xC5lekiste-v\xE6ge gulv lister og paneler"
+    2300222: "\xF8je"
+    3300000: " sovev\xE6relse gulv"
+    3300002: "bad-d\xF8rkarm.000"
+    3300004: "badev\xE6erlsegulv"
+    3300006: computerbord.001
+    3300008: Crown Moulding kontor
+    3300010: Crown Moulding sovev;erlse
+    3300012: Crown Moulding stue
+    3300014: Cube
+    3300016: "D\xF8rtrin"
+    3300018: "D\xF8rtrin.001"
+    3300020: "D\xF8rtrin.002"
+    3300022: "D\xF8rtrin.003"
+    3300024: Fod
+    3300026: gang stuk/box
+    3300028: ganggulv
+    3300030: gulvstue og kontor
+    3300032: HIGH POLY PEINS
+    3300034: "Hovedd\xF8r-d\xF8rkarm.001"
+    3300036: Icosphere
+    3300038: Icosphere.001
+    3300040: Is-skab
+    3300042: Is-skab.001
+    3300044: Is-skab.002
+    3300046: Is-skab.004
+    3300048: Is-skab.005
+    3300050: kontakt
+    3300052: kontakt Med stik.001
+    3300054: kontakt-knap
+    3300056: kontakt-knap.002
+    3300058: Kontor bord
+    3300060: "kontor-d\xF8rkarm.001"
+    3300062: "kontor-d\xF8rkarm.002"
+    3300064: Krop
+    3300066: krystal
+    3300068: krystal.001
+    3300070: krystal.002
+    3300072: "k\xF8kken gulv"
+    3300074: "k\xF8kken-d\xF8rkarm"
+    3300076: "k\xF8kken-d\xF8rkarm.001"
+    3300078: "k\xF8kken-d\xF8rkarm.002"
+    3300080: "K\xF8kkenskab1"
+    3300082: "K\xF8kkenskab1.001"
+    3300084: loft
+    3300086: "L\xE5ge1"
+    3300088: "L\xE5ge1.001"
+    3300090: "L\xE5ge1.002"
+    3300092: "L\xE5ge1.003"
+    3300094: "L\xE5ge1.004"
+    3300096: "L\xE5ge2"
+    3300098: "L\xE5ge2.001"
+    3300100: "L\xE5ge2.002"
+    3300102: "L\xE5ge2.003"
+    3300104: "L\xE5ge2.004"
+    3300106: "n\xE6se"
+    3300108: Panel.kontor
+    3300110: radiator-termostad
+    3300112: radiator-termostad.001
+    3300114: radiator.000
+    3300116: radiator.001
+    3300118: radiator_kontor
+    3300120: radiator_kontor.001
+    3300122: radiator_main
+    3300124: "radiator_r\xF8r"
+    3300126: radiator_stue
+    3300128: "rediator r\xF8r"
+    3300130: "r\xF8r_kontor.000"
+    3300132: "r\xF8r_kontor.001"
+    3300134: "r\xF8r_kontor.002"
+    3300136: "r\xF8r_kontor.003"
+    3300138: skab
+    3300140: skab.001
+    3300142: skab.002
+    3300144: skab.003
+    3300146: skab.004
+    3300148: sstugebord.001
+    3300150: stegebordben.002
+    3300152: stegebordben.003
+    3300154: stegebordben.004
+    3300156: stegebordben.005
+    3300158: stegebordben.006
+    3300160: stegebordben.007
+    3300162: stine_tavle
+    3300164: "stue-d\xF8rkarm"
+    3300166: Stuelampe1.000
+    3300168: Stuelampe1.002
+    3300170: stuk kontor
+    3300172: "tintin r\xF8d"
+    3300174: tintinhvid
+    3300176: Torus.003
+    3300178: tv
+    3300180: vindue innerliste.000
+    3300182: vindue innerliste.001
+    3300184: vindue innerliste.002
+    3300186: vindue innerliste.003
+    3300188: vindue komtor
+    3300190: vindue komtor glas
+    3300192: vindue komtor glas.001
+    3300194: vindue komtor glas.002
+    3300196: "vindue k\xF8kken"
+    3300198: "vindue sovev\xE6erlse glas.003"
+    3300200: "vindue sovev\xE6relse"
+    3300202: vindue Stue
+    3300204: "vindues liste. sovev\xE6relse"
+    3300206: "vindues liste. sovev\xE6relse.001"
+    3300208: vindues liste.kontor
+    3300210: vindues liste.stue
+    3300212: vinduskarm-kontor.000
+    3300214: vinduskarm-kontor.001
+    3300216: vinduskarm-kontor.002
+    3300218: vinduskarm-stue
+    3300220: "\xC5lekiste-v\xE6ge gulv lister og paneler"
+    3300222: "\xF8je"
+    4300000: radiator.000
+    4300002: radiator.001
+    4300004: radiator_main
+    4300006: "\xC5lekiste-v\xE6ge gulv lister og paneler"
+    4300008: "k\xF8kken gulv"
+    4300010: ganggulv
+    4300012: gulvstue og kontor
+    4300014: "badev\xE6erlsegulv"
+    4300016: " sovev\xE6relse gulv"
+    4300018: Crown Moulding sovev;erlse
+    4300020: Crown Moulding stue
+    4300022: Crown Moulding kontor
+    4300024: "bad-d\xF8rkarm.000"
+    4300026: "Hovedd\xF8r-d\xF8rkarm.001"
+    4300028: gang stuk/box
+    4300030: Panel.kontor
+    4300032: loft
+    4300034: "D\xF8rtrin"
+    4300036: "D\xF8rtrin.003"
+    4300038: "D\xF8rtrin.002"
+    4300040: "D\xF8rtrin.001"
+    4300042: kontakt
+    4300044: kontakt-knap
+    4300046: kontakt Med stik.001
+    4300048: kontakt-knap.002
+    4300050: "r\xF8r_kontor.000"
+    4300052: "r\xF8r_kontor.001"
+    4300054: "r\xF8r_kontor.002"
+    4300056: "r\xF8r_kontor.003"
+    4300058: radiator_kontor
+    4300060: radiator-termostad
+    4300062: "rediator r\xF8r"
+    4300064: radiator_kontor.001
+    4300066: radiator_stue
+    4300068: radiator-termostad.001
+    4300070: "radiator_r\xF8r"
+    4300072: Cube
+    4300074: sstugebord.001
+    4300076: stegebordben.002
+    4300078: stegebordben.003
+    4300080: stegebordben.004
+    4300082: stegebordben.005
+    4300084: stegebordben.006
+    4300086: stegebordben.007
+    4300088: krystal.001
+    4300090: krystal.002
+    4300092: krystal
+    4300094: Krop
+    4300096: Fod
+    4300098: Icosphere.001
+    4300100: Icosphere
+    4300102: "n\xE6se"
+    4300104: Torus.003
+    4300106: "\xF8je"
+    4300108: HIGH POLY PEINS
+    4300110: computerbord.001
+    4300112: "L\xE5ge2.004"
+    4300114: "L\xE5ge2.003"
+    4300116: "L\xE5ge2.001"
+    4300118: "L\xE5ge2.002"
+    4300120: "L\xE5ge2"
+    4300122: "L\xE5ge1.004"
+    4300124: "L\xE5ge1.003"
+    4300126: "L\xE5ge1.002"
+    4300128: "L\xE5ge1.001"
+    4300130: "L\xE5ge1"
+    4300132: skab
+    4300134: skab.001
+    4300136: skab.002
+    4300138: skab.003
+    4300140: skab.004
+    4300142: tv
+    4300144: Is-skab
+    4300146: Is-skab.002
+    4300148: Is-skab.001
+    4300150: "K\xF8kkenskab1.001"
+    4300152: "K\xF8kkenskab1"
+    4300154: Kontor bord
+    4300156: "tintin r\xF8d"
+    4300158: tintinhvid
+    4300160: Is-skab.004
+    4300162: Is-skab.005
+    4300164: stine_tavle
+    4300166: Stuelampe1.000
+    4300168: Stuelampe1.002
+    4300170: vindue Stue
+    4300172: vinduskarm-stue
+    4300174: vindue innerliste.002
+    4300176: vindue komtor glas.001
+    4300178: vindue komtor
+    4300180: vindue innerliste.001
+    4300182: vindue komtor glas
+    4300184: vinduskarm-kontor.001
+    4300186: vindue komtor glas.002
+    4300188: "vindue k\xF8kken"
+    4300190: vindue innerliste.003
+    4300192: "vindues liste. sovev\xE6relse.001"
+    4300194: vinduskarm-kontor.002
+    4300196: "vindue sovev\xE6relse"
+    4300198: vindue innerliste.000
+    4300200: "vindue sovev\xE6erlse glas.003"
+    4300202: "vindues liste. sovev\xE6relse"
+    4300204: vinduskarm-kontor.000
+    4300206: vindues liste.kontor
+    4300208: vindues liste.stue
+    4300210: "stue-d\xF8rkarm"
+    4300212: stuk kontor
+    4300214: "kontor-d\xF8rkarm.001"
+    4300216: "kontor-d\xF8rkarm.002"
+    4300218: "k\xF8kken-d\xF8rkarm"
+    4300220: "k\xF8kken-d\xF8rkarm.001"
+    4300222: "k\xF8kken-d\xF8rkarm.002"
+    10800000: Point
+    10800002: Point.001
+    10800004: Point.002
+    10800006: Spot
+    10800008: Spot.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "tvsk\xE6rm"
+    second: {instanceID: 0}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

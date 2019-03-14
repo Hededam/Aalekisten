@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: b42c24a86653f884db3b0b1d42cfd422
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ben1 boner1 L
+    100004: ben1 boner1 R
+    100006: ben1 boner2 L
+    100008: ben1 boner2 R
+    100010: ben1 boner3 L
+    100012: ben1 boner3 R
+    100014: ben1 boner4 L
+    100016: ben1 boner4 L_end
+    100018: ben1 boner4 R
+    100020: ben1 boner4 R_end
+    100022: ben2 boner1 L
+    100024: ben2 boner1 R
+    100026: ben2 boner2 L
+    100028: ben2 boner2 R
+    100030: ben2 boner3 L
+    100032: ben2 boner3 R
+    100034: ben2 boner4 L
+    100036: ben2 boner4 L_end
+    100038: ben2 boner4 R
+    100040: ben2 boner4 R_end
+    100042: ben3 boner1 L
+    100044: ben3 boner1 R
+    100046: ben3 boner2 L
+    100048: ben3 boner2 R
+    100050: ben3 boner3 L
+    100052: ben3 boner3 R
+    100054: ben3 boner4 L
+    100056: ben3 boner4 L_end
+    100058: ben3 boner4 R
+    100060: ben3 boner4 R_end
+    100062: ben4 boner1 L
+    100064: ben4 boner1 R
+    100066: ben4 boner2 L
+    100068: ben4 boner2 R
+    100070: ben4 boner3 L
+    100072: ben4 boner3 R
+    100074: ben4 boner4 L
+    100076: ben4 boner4 L_end
+    100078: ben4 boner4 R
+    100080: ben4 boner4 R_end
+    100082: EdderBen
+    100084: Edderhoved
+    100086: Edderhoved.001
+    100088: Edderkrop
+    100090: //RootNode
+    100092: Edderkrop_end
+    100094: EdderKrop_Low
+    100096: "\xF8jne"
+    400000: Armature
+    400002: ben1 boner1 L
+    400004: ben1 boner1 R
+    400006: ben1 boner2 L
+    400008: ben1 boner2 R
+    400010: ben1 boner3 L
+    400012: ben1 boner3 R
+    400014: ben1 boner4 L
+    400016: ben1 boner4 L_end
+    400018: ben1 boner4 R
+    400020: ben1 boner4 R_end
+    400022: ben2 boner1 L
+    400024: ben2 boner1 R
+    400026: ben2 boner2 L
+    400028: ben2 boner2 R
+    400030: ben2 boner3 L
+    400032: ben2 boner3 R
+    400034: ben2 boner4 L
+    400036: ben2 boner4 L_end
+    400038: ben2 boner4 R
+    400040: ben2 boner4 R_end
+    400042: ben3 boner1 L
+    400044: ben3 boner1 R
+    400046: ben3 boner2 L
+    400048: ben3 boner2 R
+    400050: ben3 boner3 L
+    400052: ben3 boner3 R
+    400054: ben3 boner4 L
+    400056: ben3 boner4 L_end
+    400058: ben3 boner4 R
+    400060: ben3 boner4 R_end
+    400062: ben4 boner1 L
+    400064: ben4 boner1 R
+    400066: ben4 boner2 L
+    400068: ben4 boner2 R
+    400070: ben4 boner3 L
+    400072: ben4 boner3 R
+    400074: ben4 boner4 L
+    400076: ben4 boner4 L_end
+    400078: ben4 boner4 R
+    400080: ben4 boner4 R_end
+    400082: EdderBen
+    400084: Edderhoved
+    400086: Edderhoved.001
+    400088: Edderkrop
+    400090: //RootNode
+    400092: Edderkrop_end
+    400094: EdderKrop_Low
+    400096: "\xF8jne"
+    2100000: "edder_\xF8jne"
+    2100002: No Name
+    2100004: Material.001
+    4300000: "\xF8jne"
+    4300002: EdderBen
+    4300004: EdderKrop_Low
+    7400000: Armature|atack
+    7400002: Armature|Idel
+    9500000: //RootNode
+    13700000: EdderBen
+    13700002: EdderKrop_Low
+    13700004: "\xF8jne"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
